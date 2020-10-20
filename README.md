@@ -7,4 +7,7 @@ Working through the Kaggle Chest Xray dataset in Python and Keras/Tensorflow.Thi
 Is an image of some of the training data.
 
 
-To accomplish this we utilize Convolutional Neural Networks with relu activations, and we utilize tensorflows built in functionallity. We utilize ImageDataGenerator to augmnet images to artifically increase training data size. We also visualize some inner layers.
+To accomplish this we utilize Convolutional Neural Networks with relu activations, and we utilize tensorflows built in functionallity. We utilize ImageDataGenerator to augmnet images to artifically increase training data size.
+
+
+We also visualize some inner layers using tensorflows built in functions.
