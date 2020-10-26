@@ -9,5 +9,17 @@ Is an image of some of the training data.
 
 To accomplish this we utilize Convolutional Neural Networks with relu activations, and we utilize tensorflows built in functionallity. We utilize ImageDataGenerator to augmnet images to artifically increase training data size.
 
-
 We also visualize some inner layers using tensorflows built in functions.
+
+![What is this](images/xray2.png)
+
+We also visualize max pooling layers.
+
+![What is this](images/xray3.png)
+
+And our final results!
+
+![What is this](images/xray4.png)
+
+![What is this](images/xray5.png)
+
